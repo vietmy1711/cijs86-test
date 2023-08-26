@@ -1,0 +1,17 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.checkbox {
+  display: flex;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+p {
+  display: flex;
+  flex: 1;
+}
